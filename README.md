@@ -52,4 +52,4 @@ Jeux de donnéex users
 ~~~
 
 Pour un teste de l'application avec une interface web 
-=> https://github.com/so-mouga/AssurLinkBox
+=> https://github.com/mhtnasser/AssurLinkBox
