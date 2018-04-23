@@ -9,7 +9,7 @@ Assurez-vous que vous n'avez aucun service qui est sur les ports 80 et 8081 avan
 Clonez le repository
 
 ~~~
-git clone https://github.com/so-mouga/AssurLink.git
+git clone https://github.com/mhtnasser/AssurLink.git
 ~~~
 
 L'installation est très simple. 
